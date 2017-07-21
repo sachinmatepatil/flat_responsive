@@ -1,0 +1,39 @@
+body{
+	width: 100%;
+	height: 100%;
+	margin: 0;
+}
+
+.container{
+	padding: 40px 20px;
+}
+
+a:hover{
+	text-decoration: none;
+}
+
+li{
+	list-style-type: none;
+	margin-right: 100px;
+	padding-top: 16px;
+	font-family: "Alice",Serif;
+	text-transform: uppercase;
+	font-size: large;
+}
+
+.navbar-brand{
+	font-family: "Bungee", cursive;
+	font-size: 25px;
+}
+.feature{
+	margin-top:40px;
+}
+.feature h1{	
+	font-size:4.5em;
+	color: #fff;
+	text-transform: uppercase;
+	font-weight:900;
+	line-height:70px;
+	margin-bottom:40px;
+}
+
