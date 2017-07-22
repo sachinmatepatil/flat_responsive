@@ -11,6 +11,9 @@ body{
 a:hover{
 	text-decoration: none;
 }
+a{
+	color: #fff;
+}
 
 li{
 	list-style-type: none;
@@ -37,3 +40,75 @@ li{
 	margin-bottom:40px;
 }
 
+.features{
+	margin-bottom: 40px;
+}
+
+h2{
+font-size: 1.5em;
+text-transform: uppercase;
+font-weight: 900;
+}
+
+p{
+	font-family: "Alice",Serif;
+	font-size: 1.3em;
+}
+
+.background-green{
+	background-color:rgb(24, 206, 45);
+}
+
+.container#main h2{
+color: #fff;
+}
+
+.container#main p{
+color:rgb(24, 100, 45);
+}
+
+.icon-bar{
+	background-color:#fff;
+	color: #fff;
+}
+
+
+.container#main li{
+	margin-right: 89px;
+}
+
+.inl{
+	margin-bottom: 40px;
+}
+
+#main img{
+	padding: 80px;
+}
+
+.d{
+background-color:rgb(51, 50, 48);
+}
+.e{
+background-color:rgb(244, 19, 57); 
+}
+.f{
+background-color: rgb(206, 10, 255);
+}
+.g{
+background-color: rgb(71, 26, 219);
+}
+.h{
+background-color: rgb(24, 247, 243);
+}
+.i{
+background-color: rgb(247, 24, 24);
+}
+.j{
+background-color: rgb(61, 15, 15);
+}
+.k{
+background-color: rgb(255, 255, 124);
+}
+.l{
+background-color: rgb(0, 0, 0);
+}
